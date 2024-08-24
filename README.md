@@ -1,0 +1,1 @@
+1. VueJS + Tailwind + Vite + Electron 
