@@ -1,0 +1,26 @@
+{
+  "name": "vue-project",
+  "version": "0.0.0",
+  "main": "main.js",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "electron:start": "vite build && electron .",
+    "electron:dev": "npx electron ."
+  },
+  "dependencies": {
+    "electron": "^32.0.0",
+    "vue": "^3.4.29"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.5",
+    "autoprefixer": "^10.4.20",
+    "electron": "^32.0.0",
+    "postcss": "^8.4.41",
+    "tailwindcss": "^3.4.10",
+    "vite": "^5.3.1"
+  }
+}

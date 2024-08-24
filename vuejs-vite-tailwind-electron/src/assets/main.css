@@ -1,0 +1,23 @@
+/* styles.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Example light mode styles */
+.bg-light-bg {
+  @apply bg-white text-black;
+}
+
+.text-light-text {
+  @apply text-black;
+}
+
+/* Example dark mode styles */
+.dark .bg-dark-bg {
+  @apply bg-gray-800 text-white;
+}
+
+.dark .text-dark-text {
+  @apply text-white;
+}
