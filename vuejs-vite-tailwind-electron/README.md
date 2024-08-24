@@ -1,12 +1,13 @@
+# Vue.js Electron Boilerplate with Vite and Tailwind CSS
+
 This project provides a powerful boilerplate for building cross-platform desktop applications using Vue.js, Electron, Vite, and Tailwind CSS. It combines the best of modern web development with desktop app capabilities.
 
 
 ## Features
 
-🚀 Vue.js 3: The progressive JavaScript framework for building user interfaces
-
-⚡️ Vite: Next-generation frontend tooling for faster development
-🎨 Tailwind CSS: A utility-first CSS framework for rapid UI development
+- 🚀 **Vue.js 3**: The progressive JavaScript framework for building user interfaces
+- ⚡️ **Vite**: Next-generation frontend tooling for faster development
+- 🎨 **Tailwind CSS**: A utility-first CSS framework for rapid UI development
 
 🖥️ Electron: Framework for creating native applications with web technologies
 
@@ -19,7 +20,8 @@ Get your project up and running in minutes:
 
 3- Start the development server
 
-```# Install dependencies
+```
+# Install dependencies
 npm install
 
 # Run the Electron app
